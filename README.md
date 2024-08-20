@@ -1,6 +1,6 @@
 # Furniture Website (Figma to React Code)
 
-This project is a React code implementation of a furniture website design by [Soumitra Saha]. The purpose of this repository is to showcase the conversion of the Figma design into a fully functional React application.
+This project is a React code implementation of a furniture website design by [Eyob Mekonnen and Andualem Belete]. The purpose of this repository is to showcase the conversion of the Figma design into a fully functional React application.
 
 ## Design
 
@@ -39,4 +39,4 @@ The design for this furniture website was created by [Nait Creative](https://www
 
 ## Contact
 
-For any inquiries or questions regarding this project, please contact [soumitrosaha100@gmail.com].
+For any inquiries or questions regarding this project, please contact [emekonnen35@gmail.com].
